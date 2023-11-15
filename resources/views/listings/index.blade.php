@@ -16,4 +16,8 @@
 
     </div>
 
+    <div class="mt-6 p4">
+        {{ $listings->links() }}
+    </div>
+
 </x-layout>
